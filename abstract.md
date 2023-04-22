@@ -1,7 +1,7 @@
 ---
 title: The Meaning Of Justice in Pyre
 
-subtitle: Pyre's take on justice
+subtitle: Rehab or Exile
 
 author: Caleb Millard
 
